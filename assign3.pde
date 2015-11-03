@@ -119,7 +119,7 @@ void draw() {
    }
    break;
   }
-      println(enemyY);   
+  
       //hp boundary
       if(hpX > 200){
         hpX = 200;  
